@@ -2,30 +2,31 @@
     {
         "Diplomado": "Negocios Internacionales",
         "Generaciones": [
-            "G15"
+            "G15",
+            "G16",
+            "G17"
         ],
         "Fechas Aproximadas": [
-            "2025-11-08"
-        ]
-    },
-    {
-        "Diplomado": "Cimentaciones Profundas",
-        "Generaciones": [
-            "G11"
-        ],
-        "Fechas Aproximadas": [
-            "2025-07-11"
+            "2025-02-01",
+            "2025-06-28",
+            "2025-11-22"
         ]
     },
     {
         "Diplomado": "Comercio Exterior",
         "Generaciones": [
             "G45",
-            "G46"
+            "G46",
+            "G47",
+            "G48",
+            "G49"
         ],
         "Fechas Aproximadas": [
-            "2025-07-12",
-            "2025-10-25"
+            "2024-10-11",
+            "2025-01-24",
+            "2025-05-09",
+            "2025-08-22",
+            "2025-12-05"
         ]
     },
     {
@@ -35,83 +36,114 @@
     },
     {
         "Diplomado": "Traducción de Textos en Inglés y Español",
-        "Generaciones": [],
-        "Fechas Aproximadas": []
+        "Generaciones": [
+            "G16",
+            "G17"
+        ],
+        "Fechas Aproximadas": [
+            "2025-05-02",
+            "2025-11-21"
+        ]
     },
     {
         "Diplomado": "Ciencia de Datos",
         "Generaciones": [
-            "G28"
+            "G28",
+            "G29",
+            "G30",
+            "G31"
         ],
         "Fechas Aproximadas": [
-            "2025-12-27"
+            "2025-02-27",
+            "2025-05-29",
+            "2025-08-28",
+            "2025-11-27"
         ]
     },
     {
         "Diplomado": "Derecho Procesal Civil y Familiar",
-        "Generaciones": [],
-        "Fechas Aproximadas": []
+        "Generaciones": [
+            "G16",
+            "G17"
+        ],
+        "Fechas Aproximadas": [
+            "2025-05-03",
+            "2025-10-11"
+        ]
     },
     {
         "Diplomado": "Administración de Base de Datos",
         "Generaciones": [
-            "G19"
+            "G19",
+            "G20"
         ],
         "Fechas Aproximadas": [
-            "2025-12-27"
+            "2025-03-28",
+            "2025-11-07"
         ]
     },
     {
         "Diplomado": "Comunicación Estratégica, Política y Social",
-        "Generaciones": [],
-        "Fechas Aproximadas": []
+        "Generaciones": [
+            "G18",
+            "G19"
+        ],
+        "Fechas Aproximadas": [
+            "2025-05-17",
+            "2025-11-08"
+        ]
     },
     {
         "Diplomado": "Derecho Procesal Fiscal",
         "Generaciones": [
-            "G36"
+            "G36",
+            "G37"
         ],
         "Fechas Aproximadas": [
-            "2025-06-21"
+            "2024-10-18",
+            "2025-07-25"
         ]
     },
     {
         "Diplomado": "Derecho Procesal Penal y Código Nacional de Procedimientos Penales",
-        "Generaciones": [],
-        "Fechas Aproximadas": []
+        "Generaciones": [
+            "G7"
+        ],
+        "Fechas Aproximadas": [
+            "2025-11-29"
+        ]
     },
     {
         "Diplomado": "Derecho Constitucional",
-        "Generaciones": [],
-        "Fechas Aproximadas": []
-    },
-    {
-        "Diplomado": "Práctica Forense de Atención Victimológica con Perspectiva de Género",
         "Generaciones": [
-            "G9",
-            "G10"
+            "G10",
+            "G11"
         ],
         "Fechas Aproximadas": [
-            "2025-03-15",
-            "2025-10-04"
+            "2025-05-03",
+            "2025-12-13"
         ]
     },
     {
         "Diplomado": "El Proceso Penal Acusatorio (Juicio Oral)",
         "Generaciones": [
-            "G20"
+            "G20",
+            "G21"
         ],
         "Fechas Aproximadas": [
-            "2025-10-18"
+            "2024-12-28",
+            "2025-08-23"
         ]
     },
     {
         "Diplomado": "Evaluación y Análisis de Proyectos de Inversión Productiva y Financiera",
         "Generaciones": [
-            "G31"
+            "G31",
+            "G32"
         ],
         "Fechas Aproximadas": [
-            "2025-10-25"
+            "2024-12-28",
+            "2025-07-19"
         ]
     },
     {
@@ -126,39 +158,67 @@
     {
         "Diplomado": "Aspectos Legales Aplicables al Comercio Exterior",
         "Generaciones": [
-            "G26"
+            "G26",
+            "G27",
+            "G28"
         ],
         "Fechas Aproximadas": [
-            "2025-09-06"
+            "2024-11-23",
+            "2025-05-03",
+            "2025-10-11"
         ]
     },
     {
         "Diplomado": "Derecho Mercantil",
-        "Generaciones": [],
-        "Fechas Aproximadas": []
+        "Generaciones": [
+            "G15",
+            "G16",
+            "G17"
+        ],
+        "Fechas Aproximadas": [
+            "2025-02-22",
+            "2025-07-12",
+            "2025-11-29"
+        ]
     },
     {
         "Diplomado": "Derecho Familiar",
         "Generaciones": [
-            "G30"
+            "G30",
+            "G31"
         ],
         "Fechas Aproximadas": [
-            "2025-10-11"
+            "2025-04-04",
+            "2025-10-03"
         ]
     },
     {
         "Diplomado": "Finanzas y Técnicas Computacionales",
         "Generaciones": [
-            "G51"
+            "G51",
+            "G52",
+            "G53",
+            "G54",
+            "G55"
         ],
         "Fechas Aproximadas": [
-            "2025-10-25"
+            "2025-02-14",
+            "2025-05-02",
+            "2025-07-18",
+            "2025-10-03",
+            "2025-12-19"
         ]
     },
     {
         "Diplomado": "Economía Internacional y Globalización",
-        "Generaciones": [],
-        "Fechas Aproximadas": []
+        "Generaciones": [
+            "G20",
+            "G21"
+        ],
+        "Fechas Aproximadas": [
+            "2025-02-08",
+            "2025-08-23"
+        ]
     },
     {
         "Diplomado": "Gestión e Innovación Educativa",
@@ -167,100 +227,125 @@
     },
     {
         "Diplomado": "El Impacto de los Fenómenos Naturales en las Construcciones",
-        "Generaciones": [],
-        "Fechas Aproximadas": []
+        "Generaciones": [
+            "G19"
+        ],
+        "Fechas Aproximadas": [
+            "2025-10-03"
+        ]
     },
     {
         "Diplomado": "Problemas de Aprendizaje",
-        "Generaciones": [],
-        "Fechas Aproximadas": []
-    },
-    {
-        "Diplomado": "Programación Neurolingüística y Desarrollo Humano",
         "Generaciones": [
-            "G24",
-            "G25"
+            "G17"
         ],
         "Fechas Aproximadas": [
-            "2025-03-14",
-            "2025-10-31"
+            "2025-10-04"
         ]
     },
     {
         "Diplomado": "Administración Municipal",
         "Generaciones": [
-            "G21"
+            "G21",
+            "G22"
         ],
         "Fechas Aproximadas": [
+            "2025-01-18",
             "2025-10-25"
         ]
     },
     {
         "Diplomado": "El Desarrollo Urbano y el Derecho",
         "Generaciones": [
-            "G7"
+            "G7",
+            "G8"
         ],
         "Fechas Aproximadas": [
-            "2025-11-06"
+            "2025-04-28",
+            "2025-12-29"
         ]
     },
     {
         "Diplomado": "Control y Transparencia en la Administración Pública",
         "Generaciones": [
-            "G30"
+            "G30",
+            "G31"
         ],
         "Fechas Aproximadas": [
-            "2025-10-25"
+            "2024-10-26",
+            "2025-07-05"
         ]
     },
     {
         "Diplomado": "Derecho Procesal del Trabajo",
-        "Generaciones": [],
-        "Fechas Aproximadas": []
+        "Generaciones": [
+            "G18",
+            "G19"
+        ],
+        "Fechas Aproximadas": [
+            "2025-03-15",
+            "2025-12-27"
+        ]
     },
     {
         "Diplomado": "Derecho Corporativo",
         "Generaciones": [
             "G21",
-            "G22"
+            "G22",
+            "G23",
+            "G24"
         ],
         "Fechas Aproximadas": [
-            "2025-05-29",
-            "2025-09-18"
+            "2024-11-15",
+            "2025-03-07",
+            "2025-06-27",
+            "2025-10-17"
         ]
     },
     {
         "Diplomado": "Técnicas Estadísticas y Minería de Datos",
         "Generaciones": [
             "G35",
-            "G36"
+            "G36",
+            "G37",
+            "G38"
         ],
         "Fechas Aproximadas": [
-            "2025-09-13",
-            "2025-12-20"
+            "2025-01-15",
+            "2025-04-30",
+            "2025-08-13",
+            "2025-11-26"
         ]
     },
     {
         "Diplomado": "Comportamiento Humano y Organizacional",
         "Generaciones": [
-            "G19"
+            "G19",
+            "G20"
         ],
         "Fechas Aproximadas": [
-            "2025-11-15"
+            "2025-03-14",
+            "2025-12-19"
         ]
     },
     {
         "Diplomado": "Arquitectura Contemporánea: Factores Geométricos, Estructura y Diseño Sustentable",
-        "Generaciones": [],
-        "Fechas Aproximadas": []
+        "Generaciones": [
+            "G20"
+        ],
+        "Fechas Aproximadas": [
+            "2025-12-27"
+        ]
     },
     {
         "Diplomado": "Diseño de Interiores",
         "Generaciones": [
-            "G14"
+            "G14",
+            "G15"
         ],
         "Fechas Aproximadas": [
-            "2025-08-09"
+            "2025-02-15",
+            "2025-11-15"
         ]
     },
     {
@@ -269,7 +354,7 @@
             "G6"
         ],
         "Fechas Aproximadas": [
-            "2025-11-22"
+            "2025-04-04"
         ]
     },
     {
@@ -284,35 +369,17 @@
             "G12"
         ],
         "Fechas Aproximadas": [
-            "2025-04-19",
-            "2025-11-08"
-        ]
-    },
-    {
-        "Diplomado": "Dimensiones de una Práctica Docente Innovadora",
-        "Generaciones": [
-            "G22",
-            "G23"
-        ],
-        "Fechas Aproximadas": [
-            "2025-01-03",
-            "2025-09-26"
+            "2025-06-07",
+            "2025-12-27"
         ]
     },
     {
         "Diplomado": "Seguridad Nacional e Internacional",
-        "Generaciones": [],
-        "Fechas Aproximadas": []
-    },
-    {
-        "Diplomado": "Juicio De Amparo En El Sistema Penal Acusatorio",
         "Generaciones": [
-            "G10",
-            "G11"
+            "G12"
         ],
         "Fechas Aproximadas": [
-            "2025-03-01",
-            "2025-11-22"
+            "2025-12-12"
         ]
     },
     {
@@ -326,16 +393,22 @@
     },
     {
         "Diplomado": "Elaboración de Iniciativas de Ley y Dictamen Legislativo",
-        "Generaciones": [],
-        "Fechas Aproximadas": []
+        "Generaciones": [
+            "G6"
+        ],
+        "Fechas Aproximadas": [
+            "2025-12-01"
+        ]
     },
     {
         "Diplomado": "Campañas Electorales y Mercadotecnia Política",
         "Generaciones": [
-            "G5"
+            "G5",
+            "G6"
         ],
         "Fechas Aproximadas": [
-            "2025-11-29"
+            "2025-03-10",
+            "2025-11-24"
         ]
     },
     {
@@ -344,34 +417,35 @@
             "G6"
         ],
         "Fechas Aproximadas": [
-            "2025-12-29"
+            "2025-05-05"
         ]
     },
     {
         "Diplomado": "Juicio de Amparo en Material Fiscal y Administrativa",
-        "Generaciones": [],
-        "Fechas Aproximadas": []
-    },
-    {
-        "Diplomado": "Gestión de Negocios Globales y Estrategias de Prevención de Lavado de Dinero",
         "Generaciones": [
-            "G3",
-            "G4"
+            "G7"
         ],
         "Fechas Aproximadas": [
-            "2025-01-18",
-            "2025-12-27"
+            "2025-08-29"
         ]
     },
     {
         "Diplomado": "Derechos Humanos y Sistema Penal",
-        "Generaciones": [],
-        "Fechas Aproximadas": []
+        "Generaciones": [
+            "G21"
+        ],
+        "Fechas Aproximadas": [
+            "2025-12-08"
+        ]
     },
     {
         "Diplomado": "Proyecto y Construcción de Unidades Habitacionales",
-        "Generaciones": [],
-        "Fechas Aproximadas": []
+        "Generaciones": [
+            "G16"
+        ],
+        "Fechas Aproximadas": [
+            "2025-05-28"
+        ]
     },
     {
         "Diplomado": "Diplomacia Cultural y Cooperación Internacional",
@@ -380,8 +454,12 @@
     },
     {
         "Diplomado": "Arquitectura del Paisaje Urbano",
-        "Generaciones": [],
-        "Fechas Aproximadas": []
+        "Generaciones": [
+            "G12"
+        ],
+        "Fechas Aproximadas": [
+            "2025-05-27"
+        ]
     },
     {
         "Diplomado": "Seguridad Pública",
@@ -389,7 +467,7 @@
             "G18"
         ],
         "Fechas Aproximadas": [
-            "2025-09-20"
+            "2025-03-03"
         ]
     },
     {
@@ -399,29 +477,45 @@
             "G32"
         ],
         "Fechas Aproximadas": [
-            "2025-03-13",
-            "2025-08-28"
+            "2025-04-22",
+            "2025-10-07"
         ]
     },
     {
         "Diplomado": "Estrategias de Inversión Bursátil y Gestión del Riesgo Financiero",
-        "Generaciones": [],
-        "Fechas Aproximadas": []
+        "Generaciones": [
+            "G7"
+        ],
+        "Fechas Aproximadas": [
+            "2025-06-06"
+        ]
     },
     {
         "Diplomado": "Modelación Econométrica de Datos Transversales y Series de Tiempo",
-        "Generaciones": [],
-        "Fechas Aproximadas": []
+        "Generaciones": [
+            "G3"
+        ],
+        "Fechas Aproximadas": [
+            "2025-08-11"
+        ]
     },
     {
         "Diplomado": "Criminalística",
-        "Generaciones": [],
-        "Fechas Aproximadas": []
+        "Generaciones": [
+            "G32"
+        ],
+        "Fechas Aproximadas": [
+            "2025-10-31"
+        ]
     },
     {
         "Diplomado": "Comunicación y Filosofía: Multiculturalismo, Conocimiento, Ética y Estética",
-        "Generaciones": [],
-        "Fechas Aproximadas": []
+        "Generaciones": [
+            "G13"
+        ],
+        "Fechas Aproximadas": [
+            "2025-07-12"
+        ]
     },
     {
         "Diplomado": "Interdiscursividad, Cine, Literatura, Historia",
@@ -429,7 +523,7 @@
             "G19"
         ],
         "Fechas Aproximadas": [
-            "2025-11-26"
+            "2025-04-26"
         ]
     },
     {
@@ -438,33 +532,28 @@
             "G5"
         ],
         "Fechas Aproximadas": [
-            "2025-09-12"
-        ]
-    },
-    {
-        "Diplomado": "Poder Legislativo en México: Atribuciones, Procesos y Agenda",
-        "Generaciones": [
-            "G6",
-            "G7"
-        ],
-        "Fechas Aproximadas": [
-            "2024-10-12",
-            "2025-06-21"
+            "2025-05-24"
         ]
     },
     {
         "Diplomado": "Métodos y Procedimientos de Diseño y Construcción para el uso y reúso de inmuebles",
         "Generaciones": [
-            "G6"
+            "G6",
+            "G7"
         ],
         "Fechas Aproximadas": [
-            "2025-11-01"
+            "2025-05-19",
+            "2025-11-10"
         ]
     },
     {
         "Diplomado": "Las Nuevas Diplomacias: Local, Empresarial, De la Ciencia, Parlamentaria y De la Cultura",
-        "Generaciones": [],
-        "Fechas Aproximadas": []
+        "Generaciones": [
+            "G5"
+        ],
+        "Fechas Aproximadas": [
+            "2025-07-19"
+        ]
     },
     {
         "Diplomado": "Derecho Penal y Dogmática Penal Contemporánea",
@@ -472,7 +561,7 @@
             "G4"
         ],
         "Fechas Aproximadas": [
-            "2025-09-25"
+            "2025-05-10"
         ]
     },
     {
@@ -482,22 +571,28 @@
             "G4"
         ],
         "Fechas Aproximadas": [
-            "2025-02-15",
-            "2025-12-13"
+            "2025-03-03",
+            "2025-12-29"
         ]
     },
     {
         "Diplomado": "Introducción a la Ciencia de Datos: Herramientas para el Aprendizaje Automatizado en las Ciencias Sociales y Humanidades",
+        "Generaciones": [
+            "G3",
+            "G4"
+        ],
+        "Fechas Aproximadas": [
+            "2025-02-21",
+            "2025-11-14"
+        ]
+    },
+    {
+        "Diplomado": "Mediación Penal: Solución y Casos Prácticos",
         "Generaciones": [
             "G3"
         ],
         "Fechas Aproximadas": [
             "2025-10-04"
         ]
-    },
-    {
-        "Diplomado": "Mediación Penal: Solución y Casos Prácticos",
-        "Generaciones": [],
-        "Fechas Aproximadas": []
     }
 ]
